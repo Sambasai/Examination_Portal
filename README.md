@@ -2,7 +2,20 @@
 
 ---
 
-## Commands the attached code can run
+Welcome to the JEE-Main Examination Portal, an all India standardized computer-based test for admission to various technical undergraduate programs in engineering, architecture, and planning across India.
+
+### Database Features:
+
++ Maintains all necessary information related to the JEE-Main examination which is used
+  as a means to admit students into the top colleges all over the country. 
++ Maintains the data of all the registered students who are attempting the exam. 
++ Keeps track of the performance and results of each student at each phase and students can hence easily access
+  their results after every paper. 
++ Helps the organizing committee and employees of the NTA keep track of the status of the exam at various centers all over the nation. 
++ Used by various college/university officials to observe the result trends of various students which helps in
+  the admission process as well.
+
+## Commands 
 
 ## --------Update Operations--------
 
